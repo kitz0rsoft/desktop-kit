@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install
+DESCRIPTION=Cross-platform, fast, feature-rich, GPU based terminal
+EAPI=7
+HOMEPAGE=https://sw.kovidgoyal.net/kitty/
+KEYWORDS=*
+LICENSE=GPL-3
+RESTRICT=test
+SLOT=0
+SRC_URI=https://github.com/kovidgoyal/kitty/releases/download/v0.41.0/kitty-0.41.0.tar.xz -> kitty-0.41.0.tar.xz
+_md5_=7fe68fbb7a56c023a39cf64cc2559107
