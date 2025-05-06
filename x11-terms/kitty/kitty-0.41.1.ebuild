@@ -92,7 +92,7 @@ EGO_SUM=(
 go-module_set_globals
 
 SRC_URI="https://github.com/kovidgoyal/kitty/releases/download/v0.41.1/kitty-0.41.1.tar.xz -> kitty-0.41.1.tar.xz
-https://regen.mordor/fe/53/6f/fe536f047e6a89435b9037436ee683f3a5edfb5c1fdbe38d0a37fbc1853fac8ead0e685e32bb336ea0334400187e2d816a036ea1d0dff6c5a7aed4721b051a32 -> kitty-0.41.1-funtoo-go-bundle-aaa0b4e78cf36027546d076ebded8945caf9e98995b08658dfef239d8d88daa70dfd7f01303f5ed97cfb6e053c3ab2110f2800540fb6ba58af31e96dda614096.tar.gz"
+https://distfiles.macaronios.org/fe/53/6f/fe536f047e6a89435b9037436ee683f3a5edfb5c1fdbe38d0a37fbc1853fac8ead0e685e32bb336ea0334400187e2d816a036ea1d0dff6c5a7aed4721b051a32 -> kitty-0.41.1-funtoo-go-bundle-aaa0b4e78cf36027546d076ebded8945caf9e98995b08658dfef239d8d88daa70dfd7f01303f5ed97cfb6e053c3ab2110f2800540fb6ba58af31e96dda614096.tar.gz"
 KEYWORDS="*"
 
 DESCRIPTION="Cross-platform, fast, feature-rich, GPU based terminal"
