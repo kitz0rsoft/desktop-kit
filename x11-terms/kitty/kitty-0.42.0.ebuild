@@ -10,8 +10,8 @@ EGO_SUM=(
 	"github.com/!a!l!tree/bigfloat v0.2.0/go.mod"
 	"github.com/alecthomas/assert/v2 v2.11.0"
 	"github.com/alecthomas/assert/v2 v2.11.0/go.mod"
-	"github.com/alecthomas/chroma/v2 v2.15.0"
-	"github.com/alecthomas/chroma/v2 v2.15.0/go.mod"
+	"github.com/alecthomas/chroma/v2 v2.17.2"
+	"github.com/alecthomas/chroma/v2 v2.17.2/go.mod"
 	"github.com/alecthomas/repr v0.4.0"
 	"github.com/alecthomas/repr v0.4.0/go.mod"
 	"github.com/bmatcuk/doublestar/v4 v4.8.1"
@@ -71,15 +71,15 @@ EGO_SUM=(
 	"golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b"
 	"golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b/go.mod"
 	"golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8/go.mod"
-	"golang.org/x/image v0.25.0"
-	"golang.org/x/image v0.25.0/go.mod"
+	"golang.org/x/image v0.26.0"
+	"golang.org/x/image v0.26.0/go.mod"
 	"golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod"
 	"golang.org/x/sys v0.0.0-20201204225414-ed752295db88/go.mod"
 	"golang.org/x/sys v0.5.0/go.mod"
 	"golang.org/x/sys v0.8.0/go.mod"
 	"golang.org/x/sys v0.11.0/go.mod"
-	"golang.org/x/sys v0.31.0"
-	"golang.org/x/sys v0.31.0/go.mod"
+	"golang.org/x/sys v0.32.0"
+	"golang.org/x/sys v0.32.0/go.mod"
 	"golang.org/x/text v0.3.0/go.mod"
 	"gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod"
 	"gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0/go.mod"
@@ -91,8 +91,8 @@ EGO_SUM=(
 
 go-module_set_globals
 
-SRC_URI="https://github.com/kovidgoyal/kitty/releases/download/v0.41.1/kitty-0.41.1.tar.xz -> kitty-0.41.1.tar.xz
-https://regen.mordor/fe/53/6f/fe536f047e6a89435b9037436ee683f3a5edfb5c1fdbe38d0a37fbc1853fac8ead0e685e32bb336ea0334400187e2d816a036ea1d0dff6c5a7aed4721b051a32 -> kitty-0.41.1-funtoo-go-bundle-aaa0b4e78cf36027546d076ebded8945caf9e98995b08658dfef239d8d88daa70dfd7f01303f5ed97cfb6e053c3ab2110f2800540fb6ba58af31e96dda614096.tar.gz"
+SRC_URI="https://github.com/kovidgoyal/kitty/releases/download/v0.42.0/kitty-0.42.0.tar.xz -> kitty-0.42.0.tar.xz
+https://regen.mordor/c2/f7/8d/c2f78d304ee18ac07ba0fc9f326c42dac70312989e8e64ec3253eb57ae8c981ad961fe27052dc8361e7e7c8a24c419fdb49655c71584782e8c492b87dc656ba1 -> kitty-0.42.0-funtoo-go-bundle-8483fd4698208af28468f56f1ac0e5ea77ffeaa43b14359d45c9ec8199ed9e203796826284c70927a2c30e9f2c5084e898a3b20424f88b3df747511a3652ba37.tar.gz"
 KEYWORDS="*"
 
 DESCRIPTION="Cross-platform, fast, feature-rich, GPU based terminal"
