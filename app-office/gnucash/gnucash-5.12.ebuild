@@ -7,14 +7,14 @@ inherit cmake gnome3 python-single-r1 toolchain-funcs
 
 DESCRIPTION="A personal and small business double entry accounting application"
 HOMEPAGE="https://github.com/Gnucash/gnucash/"
-SRC_URI="https://github.com/Gnucash/gnucash/tarball/5bedd7fad1a7a01cb89b498d057af3656d789587 -> gnucash-5.11-5bedd7f.tar.gz"
+SRC_URI="https://github.com/Gnucash/gnucash/tarball/eeedd7bfcb62ddefb4c45f140aa4760496ea7863 -> gnucash-5.12-eeedd7b.tar.gz"
 LICENSE="GPL-2"
 
 KEYWORDS="*"
 SLOT="0"
 IUSE="aqbanking debug doc examples gnome-keyring +gui mysql nls ofx postgres python quotes -register2 smartcard +sqlite test"
 
-S="${WORKDIR}/Gnucash-gnucash-5bedd7f"
+S="${WORKDIR}/Gnucash-gnucash-eeedd7b"
 
 RESTRICT="!test? ( test )"
 
